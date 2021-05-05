@@ -1,0 +1,30 @@
+{
+  "status": "success",
+  "data": {
+    "title": "districts",
+    "description": null,
+    "lang": null,
+    "author": null,
+    "publisher": "corona-zahlen.org",
+    "image": null,
+    "date": "2021-05-05T23:40:39.000Z",
+    "url": "https://api.corona-zahlen.org/districts",
+    "logo": null
+  },
+  "statusCode": 200,
+  "headers": {
+    "server": "nginx/1.19.3",
+    "date": "Wed, 05 May 2021 23:40:39 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "x-powered-by": "Express",
+    "access-control-allow-origin": "*",
+    "retry-after": "59.875",
+    "x-ratelimit-limit": "15",
+    "x-ratelimit-remaining": "13",
+    "x-ratelimit-reset": "Wed May 05 2021 23:41:39 GMT+0000 (Coordinated Universal Time)",
+    "etag": "W/\"21c49-tQrHfGLTh8q/clcRZgpUsjZKgtc\"",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "strict-transport-security": "max-age=31536000"
+  }
+}
