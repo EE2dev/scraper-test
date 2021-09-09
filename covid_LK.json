@@ -2,6 +2,6 @@
   "error": {
     "message": "An error occurred.",
     "details": "Cannot read property 'attributes' of undefined",
-    "stack": "TypeError: Cannot read property 'attributes' of undefined\n    at Object.<anonymous> (/usr/src/app/src/data-requests/districts.ts:97:43)\n    at Generator.next (<anonymous>)\n    at fulfilled (/usr/src/app/dist/data-requests/districts.js:5:58)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"
+    "stack": "TypeError: Cannot read property 'attributes' of undefined\n    at Object.<anonymous> (/usr/src/app/src/data-requests/districts.ts:78:43)\n    at Generator.next (<anonymous>)\n    at fulfilled (/usr/src/app/dist/data-requests/districts.js:5:58)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"
   }
 }
