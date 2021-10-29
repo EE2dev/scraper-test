@@ -1,7 +1,14 @@
 {
   "error": {
-    "message": "An error occurred.",
-    "details": "Cannot read property 'map' of undefined",
-    "stack": "TypeError: Cannot read property 'map' of undefined\n    at Object.<anonymous> (/usr/src/app/src/data-requests/districts.ts:108:35)\n    at Generator.next (<anonymous>)\n    at fulfilled (/usr/src/app/dist/data-requests/districts.js:5:58)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)"
+    "message": "There is a problem with the official RKI API.",
+    "rkiError": {
+      "code": 499,
+      "message": "Token Required",
+      "messageCode": "GWM_0003",
+      "details": [
+        "Token Required"
+      ]
+    },
+    "url": "https://iot.shinewelt.de/mOBPykOjAyBO2ZKk/arcgis/rest/services/RKI_Landkreisdaten/FeatureServer/0/query?where=1%3D1&outFields=RS,GEN,EWZ,cases,deaths,county,last_update,cases7_lk,death7_lk,BL&returnGeometry=false&outSR=4326&f=json"
   }
 }
