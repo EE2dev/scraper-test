@@ -2,6 +2,6 @@
   "error": {
     "message": "An error occurred.",
     "details": "datenstand.getTime is not a function",
-    "stack": "TypeError: datenstand.getTime is not a function\n    at shouldUseAlternateDataSource (/workspace/src/utils.ts:292:35)\n    at /workspace/src/data-requests/districts.ts:109:35\n    at Generator.next (<anonymous>)\n    at fulfilled (/workspace/dist/data-requests/districts.js:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"
+    "stack": "TypeError: datenstand.getTime is not a function\n    at shouldUseAlternateDataSource (/workspace/src/utils.ts:292:35)\n    at /workspace/src/data-requests/districts.ts:109:35\n    at Generator.next (<anonymous>)\n    at fulfilled (/workspace/dist/data-requests/districts.js:5:58)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"
   }
 }
