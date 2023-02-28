@@ -1,7 +1,14 @@
 {
   "error": {
-    "message": "An error occurred.",
-    "details": "Cannot read properties of undefined (reading 'attributes')",
-    "stack": "TypeError: Cannot read properties of undefined (reading 'attributes')\n    at /usr/src/app/src/data-requests/districts.ts:111:45\n    at Generator.next (<anonymous>)\n    at fulfilled (/usr/src/app/dist/data-requests/districts.js:5:58)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"
+    "message": "There is a problem with the official RKI API.",
+    "rkiError": {
+      "code": 499,
+      "message": "Token Required",
+      "messageCode": "GWM_0003",
+      "details": [
+        "Token Required"
+      ]
+    },
+    "url": "https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/Covid19_hubv/FeatureServer/0/query?where=NeuGenesen IN(1,-1)&objectIds=&time=&resultType=standard&outFields=AnzahlGenesen,MeldeDatum,IdLandkreis,Datenstand&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=IdLandkreis&groupByFieldsForStatistics=IdLandkreis,Datenstand&outStatistics=[{\"statisticType\":\"sum\",\"onStatisticField\":\"AnzahlGenesen\",\"outStatisticFieldName\":\"recovered\"},{\"statisticType\":\"max\",\"onStatisticField\":\"MeldeDatum\",\"outStatisticFieldName\":\"date\"}]&having=&resultOffset=&resultRecordCount=&sqlFormat=none&f=json&token="
   }
 }
