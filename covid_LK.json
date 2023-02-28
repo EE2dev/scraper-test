@@ -9,6 +9,6 @@
         "Token Required"
       ]
     },
-    "url": "https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/Covid19_hubv/FeatureServer/0/query?where=NeuerFall IN(1,-1)&objectIds=&time=&resultType=standard&outFields=AnzahlFall,MeldeDatum,IdLandkreis,Datenstand&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=IdLandkreis&groupByFieldsForStatistics=IdLandkreis,Datenstand&outStatistics=[{\"statisticType\":\"sum\",\"onStatisticField\":\"AnzahlFall\",\"outStatisticFieldName\":\"cases\"},{\"statisticType\":\"max\",\"onStatisticField\":\"MeldeDatum\",\"outStatisticFieldName\":\"date\"}]&having=&resultOffset=&resultRecordCount=&sqlFormat=none&f=json&token="
+    "url": "https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/Covid19_hubv/FeatureServer/0/query?where=NeuerTodesfall IN(1,-1)&objectIds=&time=&resultType=standard&outFields=AnzahlTodesfall,MeldeDatum,IdLandkreis,Datenstand&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=IdLandkreis&groupByFieldsForStatistics=IdLandkreis,Datenstand&outStatistics=[{\"statisticType\":\"sum\",\"onStatisticField\":\"AnzahlTodesfall\",\"outStatisticFieldName\":\"deaths\"},{\"statisticType\":\"max\",\"onStatisticField\":\"MeldeDatum\",\"outStatisticFieldName\":\"date\"}]&having=&resultOffset=&resultRecordCount=&sqlFormat=none&f=json&token="
   }
 }
