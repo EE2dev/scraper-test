@@ -1,14 +1,7 @@
 {
   "error": {
-    "message": "There is a problem with the official RKI API.",
-    "rkiError": {
-      "code": 499,
-      "message": "Token Required",
-      "messageCode": "GWM_0003",
-      "details": [
-        "Token Required"
-      ]
-    },
-    "url": "https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/Covid19_hubv/FeatureServer/0/query?where=NeuGenesen IN(1,0)&objectIds=&time=&resultType=standard&outFields=AnzahlGenesen,MeldeDatum,IdLandkreis,Datenstand&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnDistinctValues=false&cacheHint=false&orderByFields=IdLandkreis&groupByFieldsForStatistics=IdLandkreis,Datenstand&outStatistics=[{\"statisticType\":\"sum\",\"onStatisticField\":\"AnzahlGenesen\",\"outStatisticFieldName\":\"recovered\"},{\"statisticType\":\"max\",\"onStatisticField\":\"MeldeDatum\",\"outStatisticFieldName\":\"date\"}]&having=&resultOffset=&resultRecordCount=&sqlFormat=none&f=json&token="
+    "message": "An error occurred.",
+    "details": "Cannot read properties of undefined (reading 'GEN')",
+    "stack": "TypeError: Cannot read properties of undefined (reading 'GEN')\n    at /usr/src/app/src/data-requests/districts.ts:31:48\n    at Array.map (<anonymous>)\n    at /usr/src/app/src/data-requests/districts.ts:28:31\n    at Generator.next (<anonymous>)\n    at fulfilled (/usr/src/app/dist/data-requests/districts.js:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"
   }
 }
