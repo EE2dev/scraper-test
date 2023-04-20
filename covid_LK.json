@@ -1,7 +1,0 @@
-{
-  "error": {
-    "message": "An error occurred.",
-    "details": "Cannot read properties of undefined (reading 'weekIncidence')",
-    "stack": "TypeError: Cannot read properties of undefined (reading 'weekIncidence')\n    at /usr/src/app/src/responses/districts.ts:86:6\n    at Array.map (<anonymous>)\n    at /usr/src/app/src/responses/districts.ts:80:38\n    at Generator.next (<anonymous>)\n    at fulfilled (/usr/src/app/dist/responses/districts.js:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"
-  }
-}
