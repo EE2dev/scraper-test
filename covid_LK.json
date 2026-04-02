@@ -17,7 +17,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -132,19 +132,19 @@
       "county": "SK Berlin Mitte",
       "state": "Berlin",
       "population": 388910,
-      "cases": 165455,
+      "cases": 165456,
       "deaths": 485,
       "casesPerWeek": 3,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BE",
       "recovered": 164963,
       "weekIncidence": 0.7713866961507805,
-      "casesPer100k": 42543.26193720912,
+      "casesPer100k": 42543.51906610784,
       "delta": {
         "cases": 1,
         "deaths": 0,
-        "recovered": 2,
-        "weekIncidence": 0.257128898751
+        "recovered": 0,
+        "weekIncidence": -4.9E-11
       }
     },
     "11002": {
@@ -216,19 +216,19 @@
       "county": "SK Berlin Spandau",
       "state": "Berlin",
       "population": 248521,
-      "cases": 97092,
+      "cases": 97093,
       "deaths": 509,
-      "casesPerWeek": 2,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BE",
       "recovered": 96559,
-      "weekIncidence": 0.8047609658741113,
-      "casesPer100k": 39067.9258493246,
+      "weekIncidence": 0.40238048293705564,
+      "casesPer100k": 39068.32822980754,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
-        "recovered": 1,
-        "weekIncidence": -2.6E-11
+        "recovered": 0,
+        "weekIncidence": -0.402380482963
       }
     },
     "11006": {
@@ -242,13 +242,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BE",
-      "recovered": 110218,
+      "recovered": 110219,
       "weekIncidence": 0,
       "casesPer100k": 37736.259626336636,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -258,19 +258,19 @@
       "county": "SK Berlin Tempelhof-Schöneberg",
       "state": "Berlin",
       "population": 346799,
-      "cases": 135263,
+      "cases": 135264,
       "deaths": 743,
-      "casesPerWeek": 0,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BE",
       "recovered": 134518,
-      "weekIncidence": 0,
-      "casesPer100k": 39003.28432319586,
+      "weekIncidence": 0.2883514658346766,
+      "casesPer100k": 39003.57267466169,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
-        "recovered": 1,
-        "weekIncidence": 0
+        "recovered": 0,
+        "weekIncidence": 0.288351465835
       }
     },
     "11008": {
@@ -279,16 +279,16 @@
       "county": "SK Berlin Neukölln",
       "state": "Berlin",
       "population": 321319,
-      "cases": 130657,
+      "cases": 130658,
       "deaths": 661,
       "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BE",
       "recovered": 129993,
       "weekIncidence": 0.3112172015971667,
-      "casesPer100k": 40662.70590908101,
+      "casesPer100k": 40663.017126282604,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
         "weekIncidence": -3E-12
@@ -300,19 +300,19 @@
       "county": "SK Berlin Treptow-Köpenick",
       "state": "Berlin",
       "population": 285774,
-      "cases": 105897,
+      "cases": 105898,
       "deaths": 464,
-      "casesPerWeek": 0,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BE",
       "recovered": 105432,
-      "weekIncidence": 0,
-      "casesPer100k": 37056.2052531021,
+      "weekIncidence": 0.3499268652851554,
+      "casesPer100k": 37056.555179967385,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0
+        "weekIncidence": 0.349926865285
       }
     },
     "11010": {
@@ -332,7 +332,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -351,10 +351,10 @@
       "weekIncidence": 0.32977071042504147,
       "casesPer100k": 38245.48791225461,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.329770710425
+        "weekIncidence": 2.5E-11
       }
     },
     "11012": {
@@ -435,10 +435,10 @@
       "weekIncidence": 1.717327837884252,
       "casesPer100k": 49757.85677485832,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 1.717327837884
+        "weekIncidence": -1.6E-11
       }
     },
     "12054": {
@@ -477,10 +477,10 @@
       "weekIncidence": 0.5212432694462833,
       "casesPer100k": 37403.3745289264,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
-        "recovered": 1,
-        "weekIncidence": 0.521243269446
+        "recovered": 0,
+        "weekIncidence": 4.6E-11
       }
     },
     "12061": {
@@ -501,7 +501,7 @@
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.558762229883
+        "weekIncidence": 1.7E-11
       }
     },
     "12062": {
@@ -552,16 +552,16 @@
       "county": "LK Märkisch-Oderland",
       "state": "Brandenburg",
       "population": 200292,
-      "cases": 85337,
+      "cases": 85338,
       "deaths": 539,
       "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BB",
       "recovered": 84792,
       "weekIncidence": 0.49927106424620055,
-      "casesPer100k": 42606.294809578016,
+      "casesPer100k": 42606.79408064226,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
         "weekIncidence": 4.6E-11
@@ -573,18 +573,18 @@
       "county": "LK Oberhavel",
       "state": "Brandenburg",
       "population": 218551,
-      "cases": 94890,
+      "cases": 94909,
       "deaths": 583,
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BB",
-      "recovered": 94302,
+      "recovered": 94321,
       "weekIncidence": 0,
-      "casesPer100k": 43417.78349218261,
+      "casesPer100k": 43426.477115181355,
       "delta": {
-        "cases": 0,
+        "cases": 19,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 19,
         "weekIncidence": 0
       }
     },
@@ -659,17 +659,17 @@
       "population": 222570,
       "cases": 99576,
       "deaths": 418,
-      "casesPerWeek": 2,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BB",
       "recovered": 99155,
-      "weekIncidence": 0.8985937008581569,
+      "weekIncidence": 0.44929685042907846,
       "casesPer100k": 44739.18317832592,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
-        "recovered": 1,
-        "weekIncidence": 0.449296850458
+        "recovered": 0,
+        "weekIncidence": -0.449296850471
       }
     },
     "12070": {
@@ -704,13 +704,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BB",
-      "recovered": 58380,
+      "recovered": 58381,
       "weekIncidence": 0,
       "casesPer100k": 52237.0280817473,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -731,7 +731,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 2,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -763,7 +763,7 @@
       "state": "Mecklenburg-Vorpommern",
       "population": 209920,
       "cases": 98348,
-      "deaths": 209,
+      "deaths": 210,
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "MV",
@@ -772,7 +772,7 @@
       "casesPer100k": 46850.22865853659,
       "delta": {
         "cases": 0,
-        "deaths": 0,
+        "deaths": 1,
         "recovered": 0,
         "weekIncidence": 0
       }
@@ -809,14 +809,14 @@
       "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "MV",
-      "recovered": 99556,
+      "recovered": 99558,
       "weekIncidence": 0.38525550144856074,
       "casesPer100k": 38502.434814769156,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 2,
-        "weekIncidence": 0.385255501449
+        "weekIncidence": 4.9E-11
       }
     },
     "13072": {
@@ -848,17 +848,17 @@
       "population": 227683,
       "cases": 100589,
       "deaths": 360,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "MV",
       "recovered": 100223,
-      "weekIncidence": 0.43920714326497806,
+      "weekIncidence": 0,
       "casesPer100k": 44179.407333880874,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -3.5E-11
+        "weekIncidence": -0.4392071433
       }
     },
     "13074": {
@@ -876,9 +876,9 @@
       "weekIncidence": 0.6238770213615492,
       "casesPer100k": 49590.73667398682,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": -3.8E-11
       }
     },
@@ -919,9 +919,9 @@
       "casesPer100k": 47998.46844196656,
       "delta": {
         "cases": 0,
-        "deaths": 1,
-        "recovered": -1,
-        "weekIncidence": -0.46693842487
+        "deaths": 0,
+        "recovered": 0,
+        "weekIncidence": 3E-11
       }
     },
     "14511": {
@@ -932,17 +932,17 @@
       "population": 248563,
       "cases": 113025,
       "deaths": 1005,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "SN",
-      "recovered": 112015,
-      "weekIncidence": 0.40231249220519544,
+      "recovered": 112016,
+      "weekIncidence": 0,
       "casesPer100k": 45471.36943149222,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
-        "weekIncidence": 5E-12
+        "recovered": 1,
+        "weekIncidence": -0.4023124922
       }
     },
     "14521": {
@@ -960,10 +960,10 @@
       "weekIncidence": 0.6081800212863008,
       "casesPer100k": 51076.782727687394,
       "delta": {
-        "cases": 2,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.608180021286
+        "weekIncidence": -1.4E-11
       }
     },
     "14522": {
@@ -983,7 +983,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": 1.9E-11
       }
     },
@@ -993,19 +993,19 @@
       "county": "LK Vogtlandkreis",
       "state": "Sachsen",
       "population": 222666,
-      "cases": 112994,
+      "cases": 112995,
       "deaths": 1495,
-      "casesPerWeek": 5,
+      "casesPerWeek": 3,
       "deathsPerWeek": 0,
       "stateAbbreviation": "SN",
       "recovered": 111478,
-      "weekIncidence": 2.245515705136842,
-      "casesPer100k": 50745.96031724646,
+      "weekIncidence": 1.347309423082105,
+      "casesPer100k": 50746.409420387485,
       "delta": {
-        "cases": 2,
-        "deaths": 1,
+        "cases": 1,
+        "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.449103141063
+        "weekIncidence": -0.898206282018
       }
     },
     "14524": {
@@ -1014,19 +1014,19 @@
       "county": "LK Zwickau",
       "state": "Sachsen",
       "population": 310838,
-      "cases": 151144,
+      "cases": 151145,
       "deaths": 1701,
-      "casesPerWeek": 25,
+      "casesPerWeek": 19,
       "deathsPerWeek": 0,
       "stateAbbreviation": "SN",
       "recovered": 149414,
-      "weekIncidence": 8.042774692926862,
-      "casesPer100k": 48624.68552750951,
+      "weekIncidence": 6.112508766624416,
+      "casesPer100k": 48625.00723849722,
       "delta": {
-        "cases": 15,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 4.182242840327
+        "weekIncidence": -1.930265926276
       }
     },
     "14612": {
@@ -1044,10 +1044,10 @@
       "weekIncidence": 0.35504366149427224,
       "casesPer100k": 51447.956812489014,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
-        "recovered": -1,
-        "weekIncidence": 0.177521830794
+        "recovered": 0,
+        "weekIncidence": -6E-12
       }
     },
     "14625": {
@@ -1056,18 +1056,18 @@
       "county": "LK Bautzen",
       "state": "Sachsen",
       "population": 297711,
-      "cases": 160789,
+      "cases": 160790,
       "deaths": 1686,
       "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "SN",
-      "recovered": 159092,
+      "recovered": 159093,
       "weekIncidence": 0.3358962215034043,
-      "casesPer100k": 54008.417559310874,
+      "casesPer100k": 54008.75345553238,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 3E-12
       }
     },
@@ -1082,14 +1082,14 @@
       "casesPerWeek": 2,
       "deathsPerWeek": 0,
       "stateAbbreviation": "SN",
-      "recovered": 113358,
+      "recovered": 113359,
       "weekIncidence": 0.8010221042049656,
       "casesPer100k": 46140.475246414426,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
-        "recovered": 0,
-        "weekIncidence": 0.400511052105
+        "recovered": 1,
+        "weekIncidence": 5E-12
       }
     },
     "14627": {
@@ -1103,14 +1103,14 @@
       "casesPerWeek": 3,
       "deathsPerWeek": 0,
       "stateAbbreviation": "SN",
-      "recovered": 121823,
+      "recovered": 121824,
       "weekIncidence": 1.2430441322101737,
       "casesPer100k": 50924.20331229827,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
-        "recovered": 0,
-        "weekIncidence": 0.41434804411
+        "recovered": 1,
+        "weekIncidence": 1E-11
       }
     },
     "14628": {
@@ -1140,19 +1140,19 @@
       "county": "SK Leipzig",
       "state": "Sachsen",
       "population": 616093,
-      "cases": 293047,
+      "cases": 293048,
       "deaths": 1007,
-      "casesPerWeek": 6,
+      "casesPerWeek": 5,
       "deathsPerWeek": 0,
       "stateAbbreviation": "SN",
-      "recovered": 292009,
-      "weekIncidence": 0.9738789436010473,
-      "casesPer100k": 47565.38379757602,
+      "recovered": 292012,
+      "weekIncidence": 0.811565786334206,
+      "casesPer100k": 47565.54611073328,
       "delta": {
-        "cases": 2,
+        "cases": 1,
         "deaths": 0,
-        "recovered": 0,
-        "weekIncidence": -0.162313157299
+        "recovered": 3,
+        "weekIncidence": -0.162313157266
       }
     },
     "14729": {
@@ -1161,19 +1161,19 @@
       "county": "LK Leipzig",
       "state": "Sachsen",
       "population": 260429,
-      "cases": 134201,
+      "cases": 134202,
       "deaths": 606,
-      "casesPerWeek": 2,
+      "casesPerWeek": 3,
       "deathsPerWeek": 0,
       "stateAbbreviation": "SN",
-      "recovered": 133588,
-      "weekIncidence": 0.7679636292425192,
-      "casesPer100k": 51530.74350398765,
+      "recovered": 133589,
+      "weekIncidence": 1.1519454438637786,
+      "casesPer100k": 51531.12748580227,
       "delta": {
-        "cases": 2,
+        "cases": 1,
         "deaths": 0,
         "recovered": 1,
-        "weekIncidence": 0.767963629243
+        "weekIncidence": 0.383981814664
       }
     },
     "14730": {
@@ -1184,17 +1184,17 @@
       "population": 199824,
       "cases": 94673,
       "deaths": 774,
-      "casesPerWeek": 2,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "SN",
-      "recovered": 93894,
-      "weekIncidence": 1.000880775082072,
+      "recovered": 93895,
+      "weekIncidence": 0.500440387541036,
       "casesPer100k": 47378.19280967251,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 1,
-        "weekIncidence": -1.8E-11
+        "weekIncidence": -0.500440387559
       }
     },
     "15001": {
@@ -1203,19 +1203,19 @@
       "county": "SK Dessau-Roßlau",
       "state": "Sachsen-Anhalt",
       "population": 79655,
-      "cases": 36082,
+      "cases": 36083,
       "deaths": 304,
-      "casesPerWeek": 0,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "ST",
       "recovered": 35775,
-      "weekIncidence": 0,
-      "casesPer100k": 45297.84696503672,
+      "weekIncidence": 1.2554139727575169,
+      "casesPer100k": 45299.10237900948,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -2.5108279455
+        "weekIncidence": 1.255413972758
       }
     },
     "15002": {
@@ -1236,7 +1236,7 @@
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.4130814638
+        "weekIncidence": 0
       }
     },
     "15003": {
@@ -1256,7 +1256,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -1275,10 +1275,10 @@
       "weekIncidence": 1.21275331384843,
       "casesPer100k": 47854.033011145206,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 1.212753313848
+        "weekIncidence": 4.8E-11
       }
     },
     "15082": {
@@ -1317,10 +1317,10 @@
       "weekIncidence": 0.5834544001213585,
       "casesPer100k": 46234.67702881681,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.583454400121
+        "weekIncidence": 2.1E-11
       }
     },
     "15084": {
@@ -1355,13 +1355,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "ST",
-      "recovered": 94719,
+      "recovered": 94720,
       "weekIncidence": 0,
       "casesPer100k": 45342.972987104346,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -1404,7 +1404,7 @@
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.7573806747
+        "weekIncidence": 0
       }
     },
     "15088": {
@@ -1415,17 +1415,17 @@
       "population": 183974,
       "cases": 92491,
       "deaths": 712,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "ST",
       "recovered": 91775,
-      "weekIncidence": 0.5435550675638949,
+      "weekIncidence": 0,
       "casesPer100k": 50273.95175405221,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.543555067536
+        "weekIncidence": -0.5435550676
       }
     },
     "15089": {
@@ -1445,7 +1445,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 2,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -1476,19 +1476,19 @@
       "county": "LK Wittenberg",
       "state": "Sachsen-Anhalt",
       "population": 123888,
-      "cases": 54899,
+      "cases": 54900,
       "deaths": 497,
       "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "ST",
-      "recovered": 54398,
+      "recovered": 54400,
       "weekIncidence": 0.8071806793232597,
-      "casesPer100k": 44313.41211416763,
+      "casesPer100k": 44314.21929484696,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
-        "recovered": 0,
-        "weekIncidence": -0.807180679277
+        "recovered": 2,
+        "weekIncidence": 2.3E-11
       }
     },
     "16051": {
@@ -1499,17 +1499,17 @@
       "population": 214969,
       "cases": 83961,
       "deaths": 709,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "TH",
       "recovered": 83249,
-      "weekIncidence": 0.46518335201819794,
+      "weekIncidence": 0,
       "casesPer100k": 39057.25941879992,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.930366704082
+        "weekIncidence": -0.465183352
       }
     },
     "16052": {
@@ -1527,10 +1527,10 @@
       "weekIncidence": 1.0679881239720614,
       "casesPer100k": 40666.85178460815,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 1.067988123972
+        "weekIncidence": -2.8E-11
       }
     },
     "16053": {
@@ -1586,13 +1586,13 @@
       "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "TH",
-      "recovered": 28498,
+      "recovered": 28499,
       "weekIncidence": 1.5239256324291375,
       "casesPer100k": 43750.3809814081,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 2.9E-11
       }
     },
@@ -1644,19 +1644,19 @@
       "county": "LK Wartburgkreis",
       "state": "Thüringen",
       "population": 159539,
-      "cases": 66991,
+      "cases": 66992,
       "deaths": 511,
-      "casesPerWeek": 0,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "TH",
       "recovered": 66480,
-      "weekIncidence": 0,
-      "casesPer100k": 41990.35972395464,
+      "weekIncidence": 0.6268059847435423,
+      "casesPer100k": 41990.986529939386,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0
+        "weekIncidence": 0.626805984744
       }
     },
     "16064": {
@@ -1674,10 +1674,10 @@
       "weekIncidence": 1.9558754498513533,
       "casesPer100k": 43520.184634642465,
       "delta": {
-        "cases": 2,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 1.955875449851
+        "weekIncidence": -4.9E-11
       }
     },
     "16065": {
@@ -1691,13 +1691,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "TH",
-      "recovered": 27248,
+      "recovered": 27249,
       "weekIncidence": 0,
       "casesPer100k": 37382.27710679875,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -1737,10 +1737,10 @@
       "weekIncidence": 0.7410646134236444,
       "casesPer100k": 40178.300145989735,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.741064613424
+        "weekIncidence": 2.4E-11
       }
     },
     "16068": {
@@ -1842,10 +1842,10 @@
       "weekIncidence": 1.7567899933241982,
       "casesPer100k": 44634.7633603879,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 1.756789993324
+        "weekIncidence": 2.4E-11
       }
     },
     "16073": {
@@ -1866,7 +1866,7 @@
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.985279917975
+        "weekIncidence": 2.5E-11
       }
     },
     "16074": {
@@ -1901,14 +1901,14 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "TH",
-      "recovered": 35047,
+      "recovered": 35048,
       "weekIncidence": 0,
       "casesPer100k": 44730.85958220718,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 1,
-        "weekIncidence": -2.5259541792
+        "weekIncidence": 0
       }
     },
     "16076": {
@@ -1985,13 +1985,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "SH",
-      "recovered": 105354,
+      "recovered": 105355,
       "weekIncidence": 0,
       "casesPer100k": 42666.83352373879,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -2012,7 +2012,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -2048,7 +2048,7 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "SH",
-      "recovered": 55231,
+      "recovered": 55232,
       "weekIncidence": 0,
       "casesPer100k": 40934.699671723894,
       "delta": {
@@ -2075,8 +2075,8 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
-        "weekIncidence": 0.490889098335
+        "recovered": 0,
+        "weekIncidence": 3.5E-11
       }
     },
     "01054": {
@@ -2094,10 +2094,10 @@
       "weekIncidence": 0.5915654596759404,
       "casesPer100k": 44219.518110776546,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.591565459676
+        "weekIncidence": -2.4E-11
       }
     },
     "01055": {
@@ -2106,19 +2106,19 @@
       "county": "LK Ostholstein",
       "state": "Schleswig-Holstein",
       "population": 203606,
-      "cases": 75677,
+      "cases": 75678,
       "deaths": 176,
-      "casesPerWeek": 5,
+      "casesPerWeek": 6,
       "deathsPerWeek": 0,
       "stateAbbreviation": "SH",
       "recovered": 75488,
-      "weekIncidence": 2.4557233087433574,
-      "casesPer100k": 37168.35456715421,
+      "weekIncidence": 2.9468679704920286,
+      "casesPer100k": 37168.84571181596,
       "delta": {
-        "cases": 5,
+        "cases": 1,
         "deaths": 0,
-        "recovered": 2,
-        "weekIncidence": 2.455723308743
+        "recovered": 0,
+        "weekIncidence": 0.491144661792
       }
     },
     "01056": {
@@ -2127,19 +2127,19 @@
       "county": "LK Pinneberg",
       "state": "Schleswig-Holstein",
       "population": 322130,
-      "cases": 130206,
+      "cases": 130207,
       "deaths": 831,
-      "casesPerWeek": 2,
+      "casesPerWeek": 3,
       "deathsPerWeek": 0,
       "stateAbbreviation": "SH",
       "recovered": 129368,
-      "weekIncidence": 0.6208673516903114,
-      "casesPer100k": 40420.32719709434,
+      "weekIncidence": 0.9313010275354671,
+      "casesPer100k": 40420.63763077019,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -1E-11
+        "weekIncidence": 0.310433675835
       }
     },
     "01057": {
@@ -2157,10 +2157,10 @@
       "weekIncidence": 1.5236237868145597,
       "casesPer100k": 36895.31180960797,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.761811893415
+        "weekIncidence": 1.5E-11
       }
     },
     "01058": {
@@ -2169,19 +2169,19 @@
       "county": "LK Rendsburg-Eckernförde",
       "state": "Schleswig-Holstein",
       "population": 278979,
-      "cases": 115648,
+      "cases": 115649,
       "deaths": 179,
-      "casesPerWeek": 0,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "SH",
       "recovered": 115467,
-      "weekIncidence": 0,
-      "casesPer100k": 41454.016252119334,
+      "weekIncidence": 0.3584499191695432,
+      "casesPer100k": 41454.374702038505,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0
+        "weekIncidence": 0.35844991917
       }
     },
     "01059": {
@@ -2220,10 +2220,10 @@
       "weekIncidence": 0.3508919673810827,
       "casesPer100k": 44771.35879405449,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
-        "recovered": 1,
-        "weekIncidence": 0.350891967381
+        "recovered": 0,
+        "weekIncidence": -1.9E-11
       }
     },
     "01061": {
@@ -2241,10 +2241,10 @@
       "weekIncidence": 2.2655359125201064,
       "casesPer100k": 41025.0794825516,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.75517863752
+        "weekIncidence": 2E-11
       }
     },
     "01062": {
@@ -2262,10 +2262,10 @@
       "weekIncidence": 0.40326971081529034,
       "casesPer100k": 37024.595419662626,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.403269710815
+        "weekIncidence": 1.5E-11
       }
     },
     "02000": {
@@ -2274,19 +2274,19 @@
       "county": "SK Hamburg",
       "state": "Hamburg",
       "population": 1892122,
-      "cases": 828108,
+      "cases": 828110,
       "deaths": 4375,
       "casesPerWeek": 5,
       "deathsPerWeek": 0,
       "stateAbbreviation": "HH",
-      "recovered": 823710,
+      "recovered": 823714,
       "weekIncidence": 0.2642535735010744,
-      "casesPer100k": 43766.09964896555,
+      "casesPer100k": 43766.20535039496,
       "delta": {
-        "cases": 0,
+        "cases": 2,
         "deaths": 0,
-        "recovered": 6,
-        "weekIncidence": -0.105701429399
+        "recovered": 4,
+        "weekIncidence": 1E-12
       }
     },
     "03101": {
@@ -2304,10 +2304,10 @@
       "weekIncidence": 0.3971342790424298,
       "casesPer100k": 44933.36086797668,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
-        "recovered": 1,
-        "weekIncidence": 0.397134279042
+        "recovered": 0,
+        "weekIncidence": 4.2E-11
       }
     },
     "03102": {
@@ -2363,7 +2363,7 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NI",
-      "recovered": 84062,
+      "recovered": 84063,
       "weekIncidence": 0,
       "casesPer100k": 47012.73913622442,
       "delta": {
@@ -2388,10 +2388,10 @@
       "weekIncidence": 1.4850896994178449,
       "casesPer100k": 43824.254484970894,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.742544849718
+        "weekIncidence": 1.8E-11
       }
     },
     "03154": {
@@ -2484,19 +2484,19 @@
       "county": "LK Göttingen",
       "state": "Niedersachsen",
       "population": 328458,
-      "cases": 159951,
+      "cases": 159952,
       "deaths": 610,
-      "casesPerWeek": 0,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NI",
       "recovered": 159340,
-      "weekIncidence": 0,
-      "casesPer100k": 48697.55037173702,
+      "weekIncidence": 0.3044529285327196,
+      "casesPer100k": 48697.85482466556,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0
+        "weekIncidence": 0.304452928533
       }
     },
     "03241": {
@@ -2505,19 +2505,19 @@
       "county": "Region Hannover",
       "state": "Niedersachsen",
       "population": 1173891,
-      "cases": 548980,
+      "cases": 548981,
       "deaths": 2668,
-      "casesPerWeek": 3,
+      "casesPerWeek": 4,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NI",
-      "recovered": 546296,
-      "weekIncidence": 0.25556035441109953,
-      "casesPer100k": 46765.84112153514,
+      "recovered": 546298,
+      "weekIncidence": 0.3407471392147993,
+      "casesPer100k": 46765.92630831994,
       "delta": {
-        "cases": 3,
+        "cases": 1,
         "deaths": 0,
-        "recovered": 1,
-        "weekIncidence": 0.170373569611
+        "recovered": 2,
+        "weekIncidence": 0.085186784815
       }
     },
     "03251": {
@@ -2615,14 +2615,14 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NI",
-      "recovered": 58357,
+      "recovered": 58358,
       "weekIncidence": 0,
       "casesPer100k": 47513.95087025893,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 2,
-        "weekIncidence": -1.6198397978
+        "recovered": 1,
+        "weekIncidence": 0
       }
     },
     "03257": {
@@ -2654,17 +2654,17 @@
       "population": 181994,
       "cases": 84567,
       "deaths": 278,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NI",
       "recovered": 84287,
-      "weekIncidence": 0.5494686638021034,
+      "weekIncidence": 0,
       "casesPer100k": 46466.916491752476,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.549468663802
+        "weekIncidence": -0.5494686638
       }
     },
     "03352": {
@@ -2706,7 +2706,7 @@
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.3818397037
+        "weekIncidence": 0
       }
     },
     "03354": {
@@ -2727,7 +2727,7 @@
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -2.0334295823
+        "weekIncidence": 0
       }
     },
     "03355": {
@@ -2741,13 +2741,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NI",
-      "recovered": 86818,
+      "recovered": 86819,
       "weekIncidence": 0,
       "casesPer100k": 46464.98037877495,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -2787,8 +2787,8 @@
       "weekIncidence": 0,
       "casesPer100k": 46033.50755351901,
       "delta": {
-        "cases": 1,
-        "deaths": 1,
+        "cases": 0,
+        "deaths": 0,
         "recovered": 0,
         "weekIncidence": 0
       }
@@ -2850,10 +2850,10 @@
       "weekIncidence": 2.1194972552510545,
       "casesPer100k": 48717.704160573114,
       "delta": {
-        "cases": 2,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 2.119497255251
+        "weekIncidence": -4.9E-11
       }
     },
     "03361": {
@@ -2873,7 +2873,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -2927,17 +2927,17 @@
       "population": 172830,
       "cases": 81037,
       "deaths": 76,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NI",
-      "recovered": 80959,
-      "weekIncidence": 0.5786032517502748,
+      "recovered": 80960,
+      "weekIncidence": 0,
       "casesPer100k": 46888.27171208702,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
-        "weekIncidence": -5E-11
+        "recovered": 1,
+        "weekIncidence": -0.5786032518
       }
     },
     "03404": {
@@ -3056,14 +3056,14 @@
       "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NI",
-      "recovered": 197855,
+      "recovered": 197857,
       "weekIncidence": 0.2958124785535953,
       "casesPer100k": 58695.407807082935,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
-        "recovered": 3,
-        "weekIncidence": 0.295812478554
+        "recovered": 2,
+        "weekIncidence": -4.6E-11
       }
     },
     "03455": {
@@ -3165,10 +3165,10 @@
       "weekIncidence": 0.5461183274580104,
       "casesPer100k": 53040.10419937688,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.273059163758
+        "weekIncidence": -4.2E-11
       }
     },
     "03460": {
@@ -3284,17 +3284,17 @@
       "population": 629047,
       "cases": 284068,
       "deaths": 1254,
-      "casesPerWeek": 4,
+      "casesPerWeek": 3,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
-      "recovered": 282805,
-      "weekIncidence": 0.6358825334196014,
+      "recovered": 282807,
+      "weekIncidence": 0.476911900064701,
       "casesPer100k": 45158.46987585983,
       "delta": {
-        "cases": 2,
-        "deaths": 2,
-        "recovered": -2,
-        "weekIncidence": 0.31794126672
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 2,
+        "weekIncidence": -0.158970633335
       }
     },
     "05112": {
@@ -3305,17 +3305,17 @@
       "population": 502211,
       "cases": 167193,
       "deaths": 1136,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
       "recovered": 166052,
-      "weekIncidence": 0.19911949359930387,
+      "weekIncidence": 0,
       "casesPer100k": 33291.38549334841,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -1E-12
+        "weekIncidence": -0.1991194936
       }
     },
     "05113": {
@@ -3326,17 +3326,17 @@
       "population": 584580,
       "cases": 235674,
       "deaths": 1044,
-      "casesPerWeek": 5,
+      "casesPerWeek": 4,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
       "recovered": 234624,
-      "weekIncidence": 0.8553149269561053,
+      "weekIncidence": 0.6842519415648841,
       "casesPer100k": 40315.09801909063,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.171062985356
+        "weekIncidence": -0.171062985435
       }
     },
     "05114": {
@@ -3347,17 +3347,17 @@
       "population": 228426,
       "cases": 97294,
       "deaths": 326,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
       "recovered": 96963,
-      "weekIncidence": 0.4377785365939078,
+      "weekIncidence": 0,
       "casesPer100k": 42593.224939367676,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -6E-12
+        "weekIncidence": -0.4377785366
       }
     },
     "05116": {
@@ -3459,10 +3459,10 @@
       "weekIncidence": 1.867495004450863,
       "casesPer100k": 53161.357793367904,
       "delta": {
-        "cases": 3,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 1.867495004451
+        "weekIncidence": -4.9E-11
       }
     },
     "05124": {
@@ -3473,17 +3473,17 @@
       "population": 358876,
       "cases": 175558,
       "deaths": 804,
-      "casesPerWeek": 3,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
-      "recovered": 174741,
-      "weekIncidence": 0.8359433341878532,
+      "recovered": 174743,
+      "weekIncidence": 0.27864777806261776,
       "casesPer100k": 48918.846621117045,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
-        "recovered": 3,
-        "weekIncidence": -1.2E-11
+        "recovered": 2,
+        "weekIncidence": -0.557295556137
       }
     },
     "05154": {
@@ -3560,14 +3560,14 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
-      "recovered": 134357,
+      "recovered": 134358,
       "weekIncidence": 0,
       "casesPer100k": 44818.23439089078,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
-        "weekIncidence": -0.3323562061
+        "recovered": 1,
+        "weekIncidence": 0
       }
     },
     "05170": {
@@ -3602,14 +3602,14 @@
       "casesPerWeek": 2,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
-      "recovered": 143002,
+      "recovered": 143003,
       "weekIncidence": 0.5944154666904433,
       "casesPer100k": 42689.43277904091,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 1,
-        "weekIncidence": -0.29720773331
+        "weekIncidence": -1E-11
       }
     },
     "05315": {
@@ -3620,17 +3620,17 @@
       "population": 1084831,
       "cases": 522297,
       "deaths": 1403,
-      "casesPerWeek": 4,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
       "recovered": 520873,
-      "weekIncidence": 0.36872102659308226,
+      "weekIncidence": 0,
       "casesPer100k": 48145.47150662177,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 2,
-        "weekIncidence": -7E-12
+        "recovered": 0,
+        "weekIncidence": -0.3687210266
       }
     },
     "05316": {
@@ -3662,17 +3662,17 @@
       "population": 562559,
       "cases": 262186,
       "deaths": 1175,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
-      "recovered": 261009,
-      "weekIncidence": 0.17775913281984645,
+      "recovered": 261010,
+      "weekIncidence": 0,
       "casesPer100k": 46605.955997504265,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
-        "weekIncidence": 2E-11
+        "recovered": 1,
+        "weekIncidence": -0.1777591328
       }
     },
     "05358": {
@@ -3774,10 +3774,10 @@
       "weekIncidence": 0.3631029324192822,
       "casesPer100k": 48730.59214826219,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.363102932419
+        "weekIncidence": 1.9E-11
       }
     },
     "05378": {
@@ -3791,13 +3791,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
-      "recovered": 127875,
+      "recovered": 127876,
       "weekIncidence": 0,
       "casesPer100k": 44789.71954453501,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -3812,14 +3812,14 @@
       "casesPerWeek": 5,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
-      "recovered": 268008,
+      "recovered": 268009,
       "weekIncidence": 0.821915556395736,
       "casesPer100k": 44226.94732343199,
       "delta": {
-        "cases": 2,
+        "cases": 0,
         "deaths": 0,
-        "recovered": -2,
-        "weekIncidence": 0.821915556396
+        "recovered": 1,
+        "weekIncidence": -4E-12
       }
     },
     "05512": {
@@ -3828,19 +3828,19 @@
       "county": "SK Bottrop",
       "state": "Nordrhein-Westfalen",
       "population": 118113,
-      "cases": 51465,
+      "cases": 51466,
       "deaths": 271,
-      "casesPerWeek": 2,
+      "casesPerWeek": 3,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
       "recovered": 51191,
-      "weekIncidence": 1.6932937102605132,
-      "casesPer100k": 43572.68039927866,
+      "weekIncidence": 2.53994056539077,
+      "casesPer100k": 43573.527046133786,
       "delta": {
         "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.846646855161
+        "weekIncidence": 0.846646855091
       }
     },
     "05513": {
@@ -3872,17 +3872,17 @@
       "population": 320946,
       "cases": 149823,
       "deaths": 297,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
-      "recovered": 149521,
-      "weekIncidence": 0.3115788948919756,
+      "recovered": 149522,
+      "weekIncidence": 0,
       "casesPer100k": 46681.68476940046,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
-        "weekIncidence": -8E-12
+        "recovered": 1,
+        "weekIncidence": -0.3115788949
       }
     },
     "05554": {
@@ -3891,19 +3891,19 @@
       "county": "LK Borken",
       "state": "Nordrhein-Westfalen",
       "population": 379070,
-      "cases": 199729,
+      "cases": 199730,
       "deaths": 673,
-      "casesPerWeek": 3,
+      "casesPerWeek": 4,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
       "recovered": 199053,
-      "weekIncidence": 0.7914105574168359,
-      "casesPer100k": 52689.2130741024,
+      "weekIncidence": 1.0552140765557814,
+      "casesPer100k": 52689.47687762154,
       "delta": {
-        "cases": 2,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.527607038317
+        "weekIncidence": 0.263803519156
       }
     },
     "05558": {
@@ -3914,17 +3914,17 @@
       "population": 224692,
       "cases": 113698,
       "deaths": 175,
-      "casesPerWeek": 2,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
       "recovered": 113518,
-      "weekIncidence": 0.8901073469460417,
+      "weekIncidence": 0,
       "casesPer100k": 50601.71256653553,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.445053673454
+        "weekIncidence": -0.8901073469
       }
     },
     "05562": {
@@ -3938,13 +3938,13 @@
       "casesPerWeek": 3,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
-      "recovered": 252153,
+      "recovered": 252156,
       "weekIncidence": 0.4840802153188798,
       "casesPer100k": 40985.78095047537,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 3,
         "weekIncidence": 1.9E-11
       }
     },
@@ -3956,17 +3956,17 @@
       "population": 456464,
       "cases": 218314,
       "deaths": 538,
-      "casesPerWeek": 4,
+      "casesPerWeek": 3,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
       "recovered": 217769,
-      "weekIncidence": 0.8763013074415507,
+      "weekIncidence": 0.657225980581163,
       "casesPer100k": 47827.21090819868,
       "delta": {
-        "cases": 3,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.657225980542
+        "weekIncidence": -0.219075326819
       }
     },
     "05570": {
@@ -4005,10 +4005,10 @@
       "weekIncidence": 0.2955676672617429,
       "casesPer100k": 49390.83503777355,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.295567667262
+        "weekIncidence": -3.8E-11
       }
     },
     "05754": {
@@ -4017,16 +4017,16 @@
       "county": "LK Gütersloh",
       "state": "Nordrhein-Westfalen",
       "population": 371309,
-      "cases": 185790,
+      "cases": 185789,
       "deaths": 658,
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
       "recovered": 185130,
       "weekIncidence": 0,
-      "casesPer100k": 50036.49251701413,
+      "casesPer100k": 50036.22319954539,
       "delta": {
-        "cases": 0,
+        "cases": -1,
         "deaths": 0,
         "recovered": 0,
         "weekIncidence": 0
@@ -4080,19 +4080,19 @@
       "county": "LK Lippe",
       "state": "Nordrhein-Westfalen",
       "population": 350588,
-      "cases": 156355,
+      "cases": 156356,
       "deaths": 800,
-      "casesPerWeek": 1,
+      "casesPerWeek": 2,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
-      "recovered": 155552,
-      "weekIncidence": 0.28523509076180587,
-      "casesPer100k": 44597.93261606216,
+      "recovered": 155553,
+      "weekIncidence": 0.5704701815236117,
+      "casesPer100k": 44598.21785115292,
       "delta": {
         "cases": 1,
         "deaths": 0,
-        "recovered": 0,
-        "weekIncidence": 0.285235090762
+        "recovered": 1,
+        "weekIncidence": 0.285235090724
       }
     },
     "05770": {
@@ -4101,19 +4101,19 @@
       "county": "LK Minden-Lübbecke",
       "state": "Nordrhein-Westfalen",
       "population": 315974,
-      "cases": 179200,
+      "cases": 179201,
       "deaths": 511,
-      "casesPerWeek": 0,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
       "recovered": 178688,
-      "weekIncidence": 0,
-      "casesPer100k": 56713.527062353234,
+      "weekIncidence": 0.3164817358390247,
+      "casesPer100k": 56713.84354408907,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
-        "recovered": 1,
-        "weekIncidence": -0.3164817358
+        "recovered": 0,
+        "weekIncidence": 0.316481735839
       }
     },
     "05774": {
@@ -4145,17 +4145,17 @@
       "population": 365742,
       "cases": 150730,
       "deaths": 711,
-      "casesPerWeek": 3,
+      "casesPerWeek": 2,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
-      "recovered": 150007,
-      "weekIncidence": 0.8202503404038913,
+      "recovered": 150008,
+      "weekIncidence": 0.5468335602692609,
       "casesPer100k": 41212.11126969284,
       "delta": {
-        "cases": 2,
+        "cases": 0,
         "deaths": 0,
-        "recovered": 0,
-        "weekIncidence": 0.546833560304
+        "recovered": 1,
+        "weekIncidence": -0.273416780131
       }
     },
     "05913": {
@@ -4164,19 +4164,19 @@
       "county": "SK Dortmund",
       "state": "Nordrhein-Westfalen",
       "population": 593317,
-      "cases": 267195,
+      "cases": 267196,
       "deaths": 829,
-      "casesPerWeek": 1,
+      "casesPerWeek": 2,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
       "recovered": 266355,
-      "weekIncidence": 0.16854396553612994,
-      "casesPer100k": 45034.104871426236,
+      "weekIncidence": 0.33708793107225987,
+      "casesPer100k": 45034.27341539177,
       "delta": {
         "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.168543965536
+        "weekIncidence": 0.168543965572
       }
     },
     "05914": {
@@ -4185,19 +4185,19 @@
       "county": "SK Hagen",
       "state": "Nordrhein-Westfalen",
       "population": 189783,
-      "cases": 87865,
+      "cases": 87866,
       "deaths": 781,
-      "casesPerWeek": 2,
+      "casesPerWeek": 3,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
       "recovered": 87074,
-      "weekIncidence": 1.0538351696411166,
-      "casesPer100k": 46297.61359025835,
+      "weekIncidence": 1.5807527544616744,
+      "casesPer100k": 46298.14050784316,
       "delta": {
-        "cases": 2,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 1.053835169641
+        "weekIncidence": 0.526917584862
       }
     },
     "05915": {
@@ -4211,13 +4211,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
-      "recovered": 87833,
+      "recovered": 87834,
       "weekIncidence": 0,
       "casesPer100k": 48745.08567921304,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -4232,13 +4232,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
-      "recovered": 72169,
+      "recovered": 72171,
       "weekIncidence": 0,
       "casesPer100k": 46208.250724416655,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 2,
         "weekIncidence": 0
       }
     },
@@ -4259,7 +4259,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 2,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -4269,19 +4269,19 @@
       "county": "LK Hochsauerlandkreis",
       "state": "Nordrhein-Westfalen",
       "population": 261647,
-      "cases": 116924,
+      "cases": 116925,
       "deaths": 316,
-      "casesPerWeek": 2,
+      "casesPerWeek": 3,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
       "recovered": 116605,
-      "weekIncidence": 0.7643886610586019,
-      "casesPer100k": 44687.68990280798,
+      "weekIncidence": 1.1465829915879029,
+      "casesPer100k": 44688.07209713851,
       "delta": {
-        "cases": 2,
+        "cases": 1,
         "deaths": 0,
-        "recovered": 1,
-        "weekIncidence": 0.764388661059
+        "recovered": 0,
+        "weekIncidence": 0.382194330488
       }
     },
     "05962": {
@@ -4299,10 +4299,10 @@
       "weekIncidence": 0.4873935654301492,
       "casesPer100k": 49863.52980167956,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.24369678273
+        "weekIncidence": 3E-11
       }
     },
     "05966": {
@@ -4341,10 +4341,10 @@
       "weekIncidence": 0.3608336701114254,
       "casesPer100k": 48538.98446971884,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.360833670111
+        "weekIncidence": 1.1E-11
       }
     },
     "05974": {
@@ -4363,9 +4363,9 @@
       "casesPer100k": 39825.13689768287,
       "delta": {
         "cases": 0,
-        "deaths": 1,
+        "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.3267247801
+        "weekIncidence": 0
       }
     },
     "05978": {
@@ -4379,14 +4379,14 @@
       "casesPerWeek": 2,
       "deathsPerWeek": 0,
       "stateAbbreviation": "NW",
-      "recovered": 172214,
+      "recovered": 172215,
       "weekIncidence": 0.5014215300376568,
       "casesPer100k": 43378.979406617764,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 1,
-        "weekIncidence": -0.250710765062
+        "weekIncidence": 3.8E-11
       }
     },
     "06411": {
@@ -4404,10 +4404,10 @@
       "weekIncidence": 0.6163594115000339,
       "casesPer100k": 44803.16562193746,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.6163594115
+        "weekIncidence": 0
       }
     },
     "06412": {
@@ -4418,17 +4418,17 @@
       "population": 773068,
       "cases": 341900,
       "deaths": 1921,
-      "casesPerWeek": 4,
+      "casesPerWeek": 3,
       "deathsPerWeek": 0,
       "stateAbbreviation": "HE",
       "recovered": 339956,
-      "weekIncidence": 0.5174189075217187,
+      "weekIncidence": 0.38806418064128895,
       "casesPer100k": 44226.381120418904,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
-        "weekIncidence": -0.129354726878
+        "recovered": 0,
+        "weekIncidence": -0.129354726859
       }
     },
     "06413": {
@@ -4500,19 +4500,19 @@
       "county": "LK Darmstadt-Dieburg",
       "state": "Hessen",
       "population": 300658,
-      "cases": 134083,
+      "cases": 134082,
       "deaths": 670,
       "casesPerWeek": 2,
       "deathsPerWeek": 0,
       "stateAbbreviation": "HE",
-      "recovered": 133409,
+      "recovered": 133408,
       "weekIncidence": 0.6652076445662514,
-      "casesPer100k": 44596.51830318834,
+      "casesPer100k": 44596.18569936606,
       "delta": {
-        "cases": 1,
+        "cases": -1,
         "deaths": 0,
-        "recovered": 0,
-        "weekIncidence": 0.332603822266
+        "recovered": -1,
+        "weekIncidence": -3.4E-11
       }
     },
     "06433": {
@@ -4530,10 +4530,10 @@
       "weekIncidence": 0.3567504316680223,
       "casesPer100k": 43623.799534797436,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.356750431668
+        "weekIncidence": -3.2E-11
       }
     },
     "06434": {
@@ -4563,19 +4563,19 @@
       "county": "LK Main-Kinzig-Kreis",
       "state": "Hessen",
       "population": 430838,
-      "cases": 211660,
+      "cases": 211661,
       "deaths": 1356,
-      "casesPerWeek": 2,
+      "casesPerWeek": 3,
       "deathsPerWeek": 0,
       "stateAbbreviation": "HE",
       "recovered": 210294,
-      "weekIncidence": 0.46421160621857865,
-      "casesPer100k": 49127.514286112186,
+      "weekIncidence": 0.696317409327868,
+      "casesPer100k": 49127.74639191529,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 1.9E-11
+        "weekIncidence": 0.232105803128
       }
     },
     "06436": {
@@ -4593,10 +4593,10 @@
       "weekIncidence": 0.41250721887633035,
       "casesPer100k": 46565.46489563567,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.412507218876
+        "weekIncidence": -2.4E-11
       }
     },
     "06437": {
@@ -4631,14 +4631,14 @@
       "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "HE",
-      "recovered": 168062,
+      "recovered": 168063,
       "weekIncidence": 0.27613858843476363,
       "casesPer100k": 46719.33550010079,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
-        "recovered": 0,
-        "weekIncidence": 0.276138588435
+        "recovered": 1,
+        "weekIncidence": 3.5E-11
       }
     },
     "06439": {
@@ -4668,19 +4668,19 @@
       "county": "LK Wetteraukreis",
       "state": "Hessen",
       "population": 317298,
-      "cases": 138600,
+      "cases": 138601,
       "deaths": 908,
-      "casesPerWeek": 4,
+      "casesPerWeek": 5,
       "deathsPerWeek": 0,
       "stateAbbreviation": "HE",
       "recovered": 137687,
-      "weekIncidence": 1.2606445675673972,
-      "casesPer100k": 43681.33426621032,
+      "weekIncidence": 1.5758057094592466,
+      "casesPer100k": 43681.649427352204,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -3.3E-11
+        "weekIncidence": 0.315161141859
       }
     },
     "06531": {
@@ -4689,19 +4689,19 @@
       "county": "LK Gießen",
       "state": "Hessen",
       "population": 278664,
-      "cases": 140015,
+      "cases": 140016,
       "deaths": 474,
-      "casesPerWeek": 0,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "HE",
       "recovered": 139541,
-      "weekIncidence": 0,
-      "casesPer100k": 50245.098039215685,
+      "weekIncidence": 0.35885510866132686,
+      "casesPer100k": 50245.45689432435,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0
+        "weekIncidence": 0.358855108661
       }
     },
     "06532": {
@@ -4741,9 +4741,9 @@
       "casesPer100k": 51909.265570320895,
       "delta": {
         "cases": 0,
-        "deaths": 3,
-        "recovered": -3,
-        "weekIncidence": -0.5718075982
+        "deaths": 0,
+        "recovered": 0,
+        "weekIncidence": 0
       }
     },
     "06534": {
@@ -4761,10 +4761,10 @@
       "weekIncidence": 0.40050623988721745,
       "casesPer100k": 50428.141170439434,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.400506239887
+        "weekIncidence": -1.3E-11
       }
     },
     "06535": {
@@ -4824,10 +4824,10 @@
       "weekIncidence": 0.43964546989307823,
       "casesPer100k": 60756.36606640406,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.439645469893
+        "weekIncidence": -7E-12
       }
     },
     "06632": {
@@ -4868,7 +4868,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -4887,10 +4887,10 @@
       "weekIncidence": 0.5476601221282072,
       "casesPer100k": 40809.98932062762,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.547660122128
+        "weekIncidence": 2.8E-11
       }
     },
     "06635": {
@@ -5048,17 +5048,17 @@
       "population": 62666,
       "cases": 26404,
       "deaths": 146,
-      "casesPerWeek": 2,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "RP",
       "recovered": 26249,
-      "weekIncidence": 3.1915233140778096,
+      "weekIncidence": 0,
       "casesPer100k": 42134.49079245524,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
-        "weekIncidence": -2.2E-11
+        "recovered": 0,
+        "weekIncidence": -3.1915233141
       }
     },
     "07137": {
@@ -5139,10 +5139,10 @@
       "weekIncidence": 0.8039813154742284,
       "casesPer100k": 41035.20634180462,
       "delta": {
-        "cases": -1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.803981315426
+        "weekIncidence": -2.6E-11
       }
     },
     "07143": {
@@ -5177,13 +5177,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "RP",
-      "recovered": 45504,
+      "recovered": 45505,
       "weekIncidence": 0,
       "casesPer100k": 40638.17460671153,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -5193,19 +5193,19 @@
       "county": "LK Bernkastel-Wittlich",
       "state": "Rheinland-Pfalz",
       "population": 115099,
-      "cases": 43924,
+      "cases": 43925,
       "deaths": 173,
-      "casesPerWeek": 0,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "RP",
       "recovered": 43748,
-      "weekIncidence": 0,
-      "casesPer100k": 38161.930164467114,
+      "weekIncidence": 0.8688172790380456,
+      "casesPer100k": 38162.79898174615,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0
+        "weekIncidence": 0.868817279038
       }
     },
     "07232": {
@@ -5261,7 +5261,7 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "RP",
-      "recovered": 60280,
+      "recovered": 60281,
       "weekIncidence": 0,
       "casesPer100k": 39287.01416872482,
       "delta": {
@@ -5342,17 +5342,17 @@
       "population": 174265,
       "cases": 69781,
       "deaths": 501,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "RP",
       "recovered": 69278,
-      "weekIncidence": 0.5738386939431326,
+      "weekIncidence": 0,
       "casesPer100k": 40043.03790204573,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 4.3E-11
+        "weekIncidence": -0.5738386939
       }
     },
     "07315": {
@@ -5519,7 +5519,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -5573,17 +5573,17 @@
       "population": 108216,
       "cases": 60438,
       "deaths": 286,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "RP",
       "recovered": 60147,
-      "weekIncidence": 0.9240777703851557,
+      "weekIncidence": 0,
       "casesPer100k": 55849.412286538034,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -1.5E-11
+        "weekIncidence": -0.9240777704
       }
     },
     "07336": {
@@ -5618,7 +5618,7 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "RP",
-      "recovered": 47717,
+      "recovered": 47718,
       "weekIncidence": 0,
       "casesPer100k": 42596.620823751895,
       "delta": {
@@ -5636,17 +5636,17 @@
       "population": 155921,
       "cases": 63696,
       "deaths": 369,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "RP",
-      "recovered": 63321,
-      "weekIncidence": 0.64135042746006,
+      "recovered": 63322,
+      "weekIncidence": 0,
       "casesPer100k": 40851.456827495975,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
-        "weekIncidence": -4E-11
+        "recovered": 1,
+        "weekIncidence": -0.6413504275
       }
     },
     "07339": {
@@ -5708,8 +5708,8 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
-        "weekIncidence": -0.1580115822
+        "recovered": 0,
+        "weekIncidence": 0
       }
     },
     "08115": {
@@ -5718,19 +5718,19 @@
       "county": "LK Böblingen",
       "state": "Baden-Württemberg",
       "population": 398528,
-      "cases": 186657,
+      "cases": 186658,
       "deaths": 561,
-      "casesPerWeek": 0,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BW",
       "recovered": 186090,
-      "weekIncidence": 0,
-      "casesPer100k": 46836.60872008993,
+      "weekIncidence": 0.2509233981050265,
+      "casesPer100k": 46836.85964348804,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
-        "recovered": 2,
-        "weekIncidence": 0
+        "recovered": 0,
+        "weekIncidence": 0.250923398105
       }
     },
     "08116": {
@@ -5772,7 +5772,7 @@
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.3818878243
+        "weekIncidence": 0
       }
     },
     "08118": {
@@ -5792,7 +5792,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -5825,17 +5825,17 @@
       "population": 128334,
       "cases": 61077,
       "deaths": 334,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BW",
       "recovered": 60742,
-      "weekIncidence": 0.7792167313416554,
+      "weekIncidence": 0,
       "casesPer100k": 47592.22030015429,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 4.2E-11
+        "weekIncidence": -0.7792167313
       }
     },
     "08125": {
@@ -5853,10 +5853,10 @@
       "weekIncidence": 0.849177571521981,
       "casesPer100k": 48700.61678597611,
       "delta": {
-        "cases": 2,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.283059190522
+        "weekIncidence": 2.2E-11
       }
     },
     "08126": {
@@ -5875,7 +5875,7 @@
       "casesPer100k": 48338.73617061957,
       "delta": {
         "cases": 0,
-        "deaths": 1,
+        "deaths": 0,
         "recovered": 0,
         "weekIncidence": 0
       }
@@ -5930,17 +5930,17 @@
       "population": 135035,
       "cases": 64776,
       "deaths": 425,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BW",
       "recovered": 64350,
-      "weekIncidence": 0.7405487466212464,
+      "weekIncidence": 0,
       "casesPer100k": 47969.78561113786,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 2.1E-11
+        "weekIncidence": -0.7405487466
       }
     },
     "08136": {
@@ -6021,9 +6021,9 @@
       "weekIncidence": 0.2199673128573094,
       "casesPer100k": 47182.10873864144,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
-        "recovered": -1,
+        "recovered": 0,
         "weekIncidence": -4.3E-11
       }
     },
@@ -6054,19 +6054,19 @@
       "county": "SK Heidelberg",
       "state": "Baden-Württemberg",
       "population": 162273,
-      "cases": 63569,
+      "cases": 63570,
       "deaths": 197,
-      "casesPerWeek": 0,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BW",
       "recovered": 63370,
-      "weekIncidence": 0,
-      "casesPer100k": 39174.1078306311,
+      "weekIncidence": 0.6162454628927794,
+      "casesPer100k": 39174.72407609399,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.6162454629
+        "weekIncidence": 0.616245462893
       }
     },
     "08222": {
@@ -6077,17 +6077,17 @@
       "population": 315554,
       "cases": 139363,
       "deaths": 569,
-      "casesPerWeek": 2,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BW",
       "recovered": 138783,
-      "weekIncidence": 0.6338059412968937,
+      "weekIncidence": 0.31690297064844686,
       "casesPer100k": 44164.5486984795,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -3E-12
+        "weekIncidence": -0.316902970652
       }
     },
     "08225": {
@@ -6149,8 +6149,8 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
-        "weekIncidence": -0.7821727194
+        "recovered": 0,
+        "weekIncidence": 0
       }
     },
     "08235": {
@@ -6191,7 +6191,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -6269,13 +6269,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BW",
-      "recovered": 82896,
+      "recovered": 82897,
       "weekIncidence": 0,
       "casesPer100k": 48675.992420875344,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -6336,10 +6336,10 @@
       "weekIncidence": 0.4604454349137356,
       "casesPer100k": 45658.22977148093,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.460445434914
+        "weekIncidence": 1.4E-11
       }
     },
     "08327": {
@@ -6374,13 +6374,13 @@
       "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BW",
-      "recovered": 125933,
+      "recovered": 125934,
       "weekIncidence": 0.3418008804790681,
       "casesPer100k": 43201.23868639086,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": -2.1E-11
       }
     },
@@ -6420,10 +6420,10 @@
       "weekIncidence": 0.5765017871555402,
       "casesPer100k": 43087.74357200507,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.576501787156
+        "weekIncidence": -4.4E-11
       }
     },
     "08415": {
@@ -6453,18 +6453,18 @@
       "county": "LK Tübingen",
       "state": "Baden-Württemberg",
       "population": 232803,
-      "cases": 106279,
+      "cases": 106280,
       "deaths": 290,
       "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BW",
       "recovered": 105987,
       "weekIncidence": 0.4295477291959296,
-      "casesPer100k": 45651.903111214204,
+      "casesPer100k": 45652.3326589434,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": -4E-12
       }
     },
@@ -6497,17 +6497,17 @@
       "population": 128928,
       "cases": 62418,
       "deaths": 222,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BW",
       "recovered": 62192,
-      "weekIncidence": 0.7756267063787541,
+      "weekIncidence": 0,
       "casesPer100k": 48413.067758749065,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
-        "weekIncidence": -2.1E-11
+        "recovered": 0,
+        "weekIncidence": -0.7756267064
       }
     },
     "08425": {
@@ -6609,10 +6609,10 @@
       "weekIncidence": 0.7460181282405163,
       "casesPer100k": 51373.046365026676,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.746018128241
+        "weekIncidence": 4.1E-11
       }
     },
     "09161": {
@@ -6642,19 +6642,19 @@
       "county": "SK München",
       "state": "Bayern",
       "population": 1512491,
-      "cases": 736455,
+      "cases": 736456,
       "deaths": 2838,
-      "casesPerWeek": 4,
+      "casesPerWeek": 5,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
-      "recovered": 733585,
-      "weekIncidence": 0.2644643835897205,
-      "casesPer100k": 48691.52940414191,
+      "recovered": 733586,
+      "weekIncidence": 0.3305804794871507,
+      "casesPer100k": 48691.59552023781,
       "delta": {
-        "cases": 2,
+        "cases": 1,
         "deaths": 0,
-        "recovered": 4,
-        "weekIncidence": -0.13223219181
+        "recovered": 1,
+        "weekIncidence": 0.066116095887
       }
     },
     "09163": {
@@ -6695,7 +6695,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -6717,7 +6717,7 @@
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.9287896941
+        "weekIncidence": 0
       }
     },
     "09173": {
@@ -6840,10 +6840,10 @@
       "weekIncidence": 2.168809269490818,
       "casesPer100k": 50439.99718054794,
       "delta": {
-        "cases": 3,
+        "cases": 0,
         "deaths": 0,
-        "recovered": 1,
-        "weekIncidence": 1.084404634791
+        "recovered": 0,
+        "weekIncidence": -9E-12
       }
     },
     "09179": {
@@ -6905,7 +6905,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -6948,7 +6948,7 @@
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.8341814178
+        "weekIncidence": 0
       }
     },
     "09184": {
@@ -6959,17 +6959,17 @@
       "population": 355890,
       "cases": 170184,
       "deaths": 505,
-      "casesPerWeek": 2,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
-      "recovered": 169672,
-      "weekIncidence": 0.5619713956559611,
+      "recovered": 169673,
+      "weekIncidence": 0.28098569782798055,
       "casesPer100k": 47819.26999915704,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 1,
-        "weekIncidence": 0.280985697856
+        "weekIncidence": -0.280985697872
       }
     },
     "09185": {
@@ -7001,17 +7001,17 @@
       "population": 132082,
       "cases": 68365,
       "deaths": 305,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
       "recovered": 68059,
-      "weekIncidence": 0.7571054345028089,
+      "weekIncidence": 0,
       "casesPer100k": 51759.51302978453,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 3E-12
+        "weekIncidence": -0.7571054345
       }
     },
     "09187": {
@@ -7032,7 +7032,7 @@
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.3746090019
+        "weekIncidence": 0
       }
     },
     "09188": {
@@ -7073,7 +7073,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": -3E-12
       }
     },
@@ -7088,13 +7088,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
-      "recovered": 71406,
+      "recovered": 71407,
       "weekIncidence": 0,
       "casesPer100k": 51850.833526279224,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -7113,10 +7113,10 @@
       "weekIncidence": 1.3252580940138092,
       "casesPer100k": 48501.79572471739,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 1.325258094014
+        "weekIncidence": 1.4E-11
       }
     },
     "09262": {
@@ -7169,17 +7169,17 @@
       "population": 122121,
       "cases": 62635,
       "deaths": 342,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
       "recovered": 62289,
-      "weekIncidence": 0.8188599831314843,
+      "weekIncidence": 0,
       "casesPer100k": 51289.29504344052,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 3.1E-11
+        "weekIncidence": -0.8188599831
       }
     },
     "09272": {
@@ -7218,10 +7218,10 @@
       "weekIncidence": 0.7955386194222798,
       "casesPer100k": 53686.92373171255,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.795538619422
+        "weekIncidence": 2.2E-11
       }
     },
     "09274": {
@@ -7256,13 +7256,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
-      "recovered": 106617,
+      "recovered": 106618,
       "weekIncidence": 0,
       "casesPer100k": 54490.9449998223,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -7302,10 +7302,10 @@
       "weekIncidence": 0.8036259603330226,
       "casesPer100k": 53427.46472082034,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.803625960333
+        "weekIncidence": 3.3E-11
       }
     },
     "09278": {
@@ -7325,7 +7325,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -7344,10 +7344,10 @@
       "weekIncidence": 1.993898670069587,
       "casesPer100k": 53217.15550415728,
       "delta": {
-        "cases": 2,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 1.99389867007
+        "weekIncidence": -3E-11
       }
     },
     "09361": {
@@ -7421,17 +7421,17 @@
       "population": 104436,
       "cases": 51167,
       "deaths": 316,
-      "casesPerWeek": 3,
+      "casesPerWeek": 2,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
-      "recovered": 50847,
-      "weekIncidence": 2.872572676088705,
+      "recovered": 50848,
+      "weekIncidence": 1.9150484507258032,
       "casesPer100k": 48993.64203914359,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
-        "weekIncidence": -1.1E-11
+        "recovered": 1,
+        "weekIncidence": -0.957524225374
       }
     },
     "09372": {
@@ -7535,7 +7535,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -7631,17 +7631,17 @@
       "population": 46656,
       "cases": 23915,
       "deaths": 200,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
       "recovered": 23712,
-      "weekIncidence": 2.143347050754458,
+      "weekIncidence": 0,
       "casesPer100k": 51258.144718792864,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -4.6E-11
+        "weekIncidence": -2.1433470508
       }
     },
     "09471": {
@@ -7652,17 +7652,17 @@
       "population": 149122,
       "cases": 82616,
       "deaths": 324,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
       "recovered": 82291,
-      "weekIncidence": 0.6705918643795014,
+      "weekIncidence": 0,
       "casesPer100k": 55401.61746757688,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
-        "weekIncidence": -2E-11
+        "recovered": 0,
+        "weekIncidence": -0.6705918644
       }
     },
     "09472": {
@@ -7892,7 +7892,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -7913,7 +7913,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 2,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -7944,19 +7944,19 @@
       "county": "LK Ansbach",
       "state": "Bayern",
       "population": 188623,
-      "cases": 98096,
+      "cases": 98097,
       "deaths": 320,
-      "casesPerWeek": 0,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
       "recovered": 97776,
-      "weekIncidence": 0,
-      "casesPer100k": 52006.383102802945,
+      "weekIncidence": 0.5301580401117573,
+      "casesPer100k": 52006.91326084306,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0
+        "weekIncidence": 0.530158040112
       }
     },
     "09572": {
@@ -8019,7 +8019,7 @@
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.579156169439
+        "weekIncidence": -3.9E-11
       }
     },
     "09575": {
@@ -8033,13 +8033,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
-      "recovered": 52376,
+      "recovered": 52377,
       "weekIncidence": 0,
       "casesPer100k": 50899.780258075756,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -8075,13 +8075,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
-      "recovered": 50866,
+      "recovered": 50867,
       "weekIncidence": 0,
       "casesPer100k": 52607.084019769354,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -8091,19 +8091,19 @@
       "county": "SK Aschaffenburg",
       "state": "Bayern",
       "population": 72444,
-      "cases": 36020,
+      "cases": 36021,
       "deaths": 238,
-      "casesPerWeek": 0,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
       "recovered": 35782,
-      "weekIncidence": 0,
-      "casesPer100k": 49721.163933521064,
+      "weekIncidence": 1.3803765667274033,
+      "casesPer100k": 49722.54431008779,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0
+        "weekIncidence": 1.380376566727
       }
     },
     "09662": {
@@ -8135,17 +8135,17 @@
       "population": 127810,
       "cases": 70188,
       "deaths": 296,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
       "recovered": 69889,
-      "weekIncidence": 0.7824113919098662,
+      "weekIncidence": 0,
       "casesPer100k": 54915.89077536969,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 1E-11
+        "weekIncidence": -0.7824113919
       }
     },
     "09671": {
@@ -8165,7 +8165,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": -1,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -8292,7 +8292,7 @@
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -0.7865840229
+        "weekIncidence": 0
       }
     },
     "09678": {
@@ -8396,7 +8396,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": -1.7E-11
       }
     },
@@ -8415,10 +8415,10 @@
       "weekIncidence": 2.180692151688946,
       "casesPer100k": 48121.333711319974,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 2.180692151689
+        "weekIncidence": -1.1E-11
       }
     },
     "09771": {
@@ -8457,10 +8457,10 @@
       "weekIncidence": 0.38264037162032893,
       "casesPer100k": 49306.65564662396,
       "delta": {
-        "cases": 1,
+        "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0.38264037162
+        "weekIncidence": 2E-11
       }
     },
     "09773": {
@@ -8495,13 +8495,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
-      "recovered": 66370,
+      "recovered": 66371,
       "weekIncidence": 0,
       "casesPer100k": 51240.46974913921,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -8555,17 +8555,17 @@
       "population": 145378,
       "cases": 78286,
       "deaths": 366,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
       "recovered": 77919,
-      "weekIncidence": 0.6878619873708539,
+      "weekIncidence": 0,
       "casesPer100k": 53849.96354331467,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 2,
-        "weekIncidence": -2.9E-11
+        "recovered": 0,
+        "weekIncidence": -0.6878619874
       }
     },
     "09778": {
@@ -8574,16 +8574,16 @@
       "county": "LK Unterallgäu",
       "state": "Bayern",
       "population": 150068,
-      "cases": 75701,
+      "cases": 75702,
       "deaths": 308,
       "casesPerWeek": 2,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
       "recovered": 75389,
       "weekIncidence": 1.33272916277954,
-      "casesPer100k": 50444.46517578698,
+      "casesPer100k": 50445.13154036837,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
         "weekIncidence": -2E-11
@@ -8618,17 +8618,17 @@
       "population": 158942,
       "cases": 81078,
       "deaths": 257,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
-      "recovered": 80818,
-      "weekIncidence": 0.6291603226334135,
+      "recovered": 80819,
+      "weekIncidence": 0,
       "casesPer100k": 51011.06063847189,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
-        "weekIncidence": 3.3E-11
+        "recovered": 1,
+        "weekIncidence": -0.6291603226
       }
     }
   },
@@ -8636,7 +8636,7 @@
     "source": "Robert Koch-Institut",
     "contact": "Marlon Lueckert (m.lueckert@me.com)",
     "info": "https://github.com/marlon360/rki-covid-api",
-    "lastUpdate": "2026-04-01T05:30:04.000Z",
-    "lastCheckedForUpdate": "2026-04-02T03:21:21.258Z"
+    "lastUpdate": "2026-04-02T05:03:08.000Z",
+    "lastCheckedForUpdate": "2026-04-02T05:44:07.299Z"
   }
 }
