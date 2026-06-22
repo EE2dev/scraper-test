@@ -893,13 +893,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "MV",
-      "recovered": 110746,
+      "recovered": 110747,
       "weekIncidence": 0,
       "casesPer100k": 46922.54218364896,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -1004,7 +1004,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -2873,7 +2873,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": 0
       }
     },
@@ -4584,19 +4584,19 @@
       "county": "LK Main-Taunus-Kreis",
       "state": "Hessen",
       "population": 242420,
-      "cases": 112884,
+      "cases": 112885,
       "deaths": 423,
-      "casesPerWeek": 0,
+      "casesPerWeek": 1,
       "deathsPerWeek": 0,
       "stateAbbreviation": "HE",
       "recovered": 112461,
-      "weekIncidence": 0,
-      "casesPer100k": 46565.46489563567,
+      "weekIncidence": 0.41250721887633035,
+      "casesPer100k": 46565.87740285455,
       "delta": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": 0
+        "weekIncidence": 0.412507218876
       }
     },
     "06437": {
@@ -5891,13 +5891,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BW",
-      "recovered": 86902,
+      "recovered": 86903,
       "weekIncidence": 0,
       "casesPer100k": 43058.85601033358,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -6290,13 +6290,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BW",
-      "recovered": 214014,
+      "recovered": 214015,
       "weekIncidence": 0,
       "casesPer100k": 48672.39213822601,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -6653,7 +6653,7 @@
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 1,
+        "recovered": 0,
         "weekIncidence": -5E-12
       }
     },
@@ -7067,13 +7067,13 @@
       "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
-      "recovered": 101629,
+      "recovered": 101630,
       "weekIncidence": 0,
       "casesPer100k": 56465.62930428867,
       "delta": {
         "cases": 0,
         "deaths": 0,
-        "recovered": 0,
+        "recovered": 1,
         "weekIncidence": 0
       }
     },
@@ -8345,17 +8345,17 @@
       "population": 301033,
       "cases": 147675,
       "deaths": 831,
-      "casesPerWeek": 1,
+      "casesPerWeek": 0,
       "deathsPerWeek": 0,
       "stateAbbreviation": "BY",
       "recovered": 146843,
-      "weekIncidence": 0.3321894941750572,
+      "weekIncidence": 0,
       "casesPer100k": 49056.08355230158,
       "delta": {
         "cases": 0,
         "deaths": 0,
         "recovered": 0,
-        "weekIncidence": -2.5E-11
+        "weekIncidence": -0.3321894942
       }
     },
     "09762": {
@@ -8636,7 +8636,7 @@
     "source": "Robert Koch-Institut",
     "contact": "Marlon Lueckert (m.lueckert@me.com)",
     "info": "https://github.com/marlon360/rki-covid-api",
-    "lastUpdate": "2026-06-21T05:35:40.000Z",
-    "lastCheckedForUpdate": "2026-06-22T05:24:11.796Z"
+    "lastUpdate": "2026-06-22T05:36:39.000Z",
+    "lastCheckedForUpdate": "2026-06-22T12:12:58.189Z"
   }
 }
